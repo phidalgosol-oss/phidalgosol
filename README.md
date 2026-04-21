@@ -1,4 +1,4 @@
-# Hi, I'm Pau 👋  
+# Hi, I'm Pri 👋  
 ### I build with AI before most people know it's possible.
 
 I'm an AI consultant and builder working at the intersection of productivity, automation, and community. I help professionals and organizations stop consuming AI content and start using it to do real work — faster, smarter, and with intention.
